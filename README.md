@@ -80,7 +80,6 @@ const lioraLang = {
 <div align="center">
 
 ![GitHub 3d_Contributions](./profile-3d-contrib/profile-night-view.svg)
-![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rorimark&theme=radical)
 
 </div>
 

@@ -1,0 +1,54 @@
+name: Generate 3D Contribution Graph
+
+on:
+  schedule:
+    # Запускать каждый день в полночь по UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+    # Позволяет запускать вручную из вкладки Actions
+  push:
+    branches: [ main ]
+
+jobs:
+  generate-3d-contrib:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Generate 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          user_name: ${{ github.repository_owner }}
+          theme: green-dual
+      
+      - name: Rename generated file
+        run: |
+          # Переименовываем файл для удобства
+          if [ -f "profile-3d-contrib.svg" ]; then
+            mv profile-3d-contrib.svg profile-3d-contrib-green-dual.svg
+            echo "✅ File renamed to profile-3d-contrib-green-dual.svg"
+          else
+            echo "⚠️ File profile-3d-contrib.svg not found"
+            ls -la
+          fi
+      
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          
+          # Проверяем, есть ли изменения для коммита
+          if git diff --staged --quiet; then
+            echo "📭 No changes to commit"
+          else
+            git commit -m "🤖 Auto-update 3D contribution graph [$(date +%Y-%m-%d)]"
+            git push
+            echo "✅ Changes committed and pushed"
+          fi

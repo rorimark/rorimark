@@ -141,11 +141,11 @@ design:
 
 ```javascript
 const currentlyLearning = {
-  languages: ["TypeScript (advanced)", "Go (beginner)"],
-  frameworks: ["Next.js 14", "React Native", "SvelteKit"],
+  languages: ["TypeScript", "Rust", "PHP"],
+  frameworks: ["React", "React Native"],
   technologies: ["GraphQL", "WebSockets", "WebRTC"],
   concepts: ["Micro-frontends", "Clean Architecture", "TDD/BDD"],
-  tools: ["Kubernetes", "AWS/GCP", "Advanced CI/CD"]
+  tools: ["Docker", "AWS/GCP", "CI/CD"]
 };
 ```
 

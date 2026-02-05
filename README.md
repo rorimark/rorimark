@@ -45,18 +45,14 @@ const rori = {
 ### **Tools & DevOps**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-b39aff?style=for-the-badge&logo=vite&logoColor=white)
 ![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Mac](https://img.shields.io/badge/Mac-ebeef2?style=for-the-badge&logo=apple&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-
-### **Design**
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
 
 ## 🚀 My Projects
-### 🌟 **Main Project: [LioraLang](https://github.com/rorimark/LioraLang)**
+### 🌟 **Current Project: [LioraLang](https://github.com/rorimark/LioraLang)**
 [![LioraLang](https://gh-card.dev/repos/rorimark/LioraLang.svg?fullname=)](https://github.com/rorimark/LioraLang)
 
 **Technologies:** HTML, CSS, React, JavaScript, Node.js, SQLite, Electron, Vite

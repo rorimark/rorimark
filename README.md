@@ -14,7 +14,7 @@
 const rori = {
   name: "Mark Storchovyi",
   alias: "RoRi",
-  location: "Poland, originally from Ukraine",
+  location: "Wrocław, Poland",
   role: "Frontend Developer",
   passion: "Creating beautiful and functional user interfaces",
   currentProject: "LioraLang",

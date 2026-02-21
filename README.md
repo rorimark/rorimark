@@ -139,7 +139,7 @@ const currentlyLearning = {
   languages: ["TypeScript", "Rust", "PHP"],
   frameworks: ["React", "React Native"],
   technologies: ["GraphQL", "WebSockets", "WebRTC"],
-  concepts: ["Micro-frontends", "Clean Architecture", "TDD/BDD"],
+  concepts: ["Feature-Sliced Design", "Clean Architecture", "TDD/BDD"],
   tools: ["Docker", "AWS/GCP", "CI/CD"]
 };
 ```

@@ -79,10 +79,6 @@ const lioraLang = {
 
 </div>
 
-## 🏆 LeetCode Achievements
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/rorimark?theme=dark&font=source%20code%20pro&ext=heatmap)](https://leetcode.com/rorimark)
-
 ## 📈 Daily Activity
 
 ```text

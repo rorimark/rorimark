@@ -1,7 +1,9 @@
-<h2 align="center">Hi, I'm Mark 👋</h2>
+<h2 align="center">Hi, I'm Mark Storchovyi 👋</h2>
 
 <p align="center">
-  Frontend developer · <b>React, Next.js, TypeScript</b> · Wrocław, open to remote
+  Frontend developer · <b>React, Next.js, TypeScript</b> · Wrocław, Poland
+  <br>
+  <b>Open to junior frontend roles, on-site or remote</b>
 </p>
 
 <p align="center">
@@ -16,23 +18,31 @@
 
 ### iBraid Studio
 
-<a href="https://www.ibraid-studio.com"><img src="assets/ibraid-site.webp" alt="iBraid Studio website and booking flow"></a>
-
 Website, online booking and studio panel for a braiding studio in Toronto. Built solo, in production.
+
 **~50 clients a month · 53 services · Stripe deposits · 700+ tests**
+
 [Live site](https://www.ibraid-studio.com) · [Case study](https://mark-storchovyi.com/#case-study)
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://mark-storchovyi.com/#case-study"><img src="assets/ibraid-panel.webp" alt="iBraid Studio panel"></a>
-      <br><b>iBraid Studio panel</b>
-      <br>Bookings, weekly calendar, payments and analytics. Confirm a request from Telegram in one tap.
+      <a href="https://www.ibraid-studio.com"><img src="assets/ibraid-site.webp" alt="iBraid Studio website and booking flow"></a>
+      <br><b>Website and booking</b>
+      <br>Real prices and times, a 7-step booking with a deposit.
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/rorimark/LioraLang"><img src="assets/lioralang.webp" alt="LioraLang study session and progress"></a>
-      <br><b><a href="https://github.com/rorimark/LioraLang">LioraLang</a></b>
-      <br>Offline flashcards with spaced repetition, on the web and on desktop. <a href="https://liora-lang.vercel.app">Try it</a>
+      <a href="https://mark-storchovyi.com/#case-study"><img src="assets/ibraid-panel.webp" alt="iBraid Studio panel"></a>
+      <br><b>Studio panel</b>
+      <br>Bookings, weekly calendar, payments, analytics. Confirm from Telegram in one tap.
     </td>
   </tr>
 </table>
+
+### LioraLang
+
+Offline flashcards with spaced repetition, on the web and on desktop.
+
+[Try it](https://liora-lang.vercel.app) · [Source](https://github.com/rorimark/LioraLang)
+
+<a href="https://liora-lang.vercel.app"><img src="assets/lioralang.webp" alt="LioraLang study session and progress"></a>

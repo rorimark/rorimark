@@ -3,7 +3,7 @@
 <p align="center">
   Frontend developer · <b>React, Next.js, TypeScript</b> · Wrocław, Poland
   <br>
-  <b>Open to junior frontend roles, on-site or remote</b>
+  <b>Open to frontend roles, on-site or remote</b>
 </p>
 
 <p align="center">

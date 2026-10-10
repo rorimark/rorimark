@@ -1,157 +1,49 @@
-# Mark (RoRi) - Frontend Developer
+### Mark Storchovyi
 
-<div align="center">
+Frontend developer working in **React, Next.js and TypeScript**. Wrocław, Poland, open to remote.
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20👋&fontSize=70&fontAlignY=35&desc=I'm%20Mark%20Storchovyi&descAlignY=55&descSize=24)
+I build web products end to end: the interface, the data model behind it, the tests, and the release. My most recent work is a booking platform that a studio in Toronto runs on every day.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=800&lines=Frontend+Developer+from+Ukraine;Building+awesome+web+applications;Passionate+about+React+and+TypeScript;Love+clean+code+and+beautiful+UI)](https://git.io/typing-svg)
-
-</div>
-
-## 🔥 About Me
-
-```javascript
-const rori = {
-  name: "Mark Storchovyi",
-  alias: "RoRi",
-  location: "Wrocław, Poland",
-  role: "Frontend Developer",
-  passion: "Creating beautiful and functional user interfaces",
-  currentProject: "LioraLang",
-  technologies: ["React", "TypeScript", "JavaScript", "Node.js"],
-  hobbies: ["Coding", "Learning languages", "UI/UX Design", "Photography"],
-  quote: "Code is like humor. When you have to explain it, it's bad."
-};
-```
-
-## 🛠️ Tech Stack
-
-### **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-
-### **Backend & Databases**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### **Tools & DevOps**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-b39aff?style=for-the-badge&logo=vite&logoColor=white)
-![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Mac](https://img.shields.io/badge/Mac-ebeef2?style=for-the-badge&logo=apple&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-## 🚀 My Projects
-### 🌟 **Current Project: [LioraLang](https://github.com/rorimark/LioraLang)**
-[![LioraLang](https://gh-card.dev/repos/rorimark/LioraLang.svg?fullname=)](https://github.com/rorimark/LioraLang)
-
-**Technologies:** HTML, CSS, React, JavaScript, Node.js, SQLite, Electron, Vite
-
-```javascript
-const lioraLang = {
-  features: [
-    "Interactive dictionary",
-    "Smart flashcards",
-    "Progress tracking",
-    "Responsive design",
-    "Offline mode"
-  ],
-  status: "🚧 Active Development",
-  stars: "⭐ Growing every day"
-};
-```
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub 3d_Contributions](./profile-3d-contrib/profile-night-view.svg)
-
-</div>
-
-## 📈 Daily Activity
-
-```text
-🌅 Morning           ███████░░░░░░░░░░░░░ 35%   Code review, planning
-🌞 Day               ██████████████░░░░░░ 65%   Active development
-🌆 Evening           █████████░░░░░░░░░░░ 45%   Learning new technologies
-🌙 Night             ████░░░░░░░░░░░░░░░░ 20%   Creating READMEs 😉
-
-📊 Productivity      █████████████████░░░ 85%   Above average efficiency
-💡 Ideas             ████████████████████ 100%  Constantly generating new ones
-```
-
-## 🎯 My Development Principles
-
-```yaml
-code_quality:
-  - "Clean code comes first"
-  - "DRY (Don't Repeat Yourself)"
-  - "KISS (Keep It Simple, Stupid)"
-  - "YAGNI (You Aren't Gonna Need It)"
-
-development:
-  - "Testing is not optional"
-  - "Documentation is a developer's best friend"
-  - "Code Review - learning from each other"
-  - "Continuous learning - key to success"
-
-design:
-  - "User-centric approach"
-  - "Minimalism and functionality"
-  - "Responsive for all devices"
-  - "Accessibility for everyone"
-```
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mark-storchovyi)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/rorimark)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rorimark)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:markstorchovyi@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rori_mark)
-
-</div>
-
-</details>
-
-<details>
-<summary><b>📚 Currently Learning</b></summary>
-
-```javascript
-const currentlyLearning = {
-  languages: ["TypeScript", "Rust", "PHP"],
-  frameworks: ["React", "React Native"],
-  technologies: ["GraphQL", "WebSockets", "WebRTC"],
-  concepts: ["Feature-Sliced Design", "Clean Architecture", "TDD/BDD"],
-  tools: ["Docker", "AWS/GCP", "CI/CD"]
-};
-```
-
-</details>
+[Portfolio](https://mark-storchovyi.com) · [LinkedIn](https://linkedin.com/in/mark-storchovyi) · [markstorchovyi@gmail.com](mailto:markstorchovyi@gmail.com)
 
 ---
 
-<div align="center">
+#### iBraid Studio: website, online booking and studio panel
 
-### ⚡ **Final Thought**
+[ibraid-studio.com](https://www.ibraid-studio.com) · [Case study](https://mark-storchovyi.com/#case-study) · client project, code is private
 
-> "A good developer writes code that works. A great developer writes code that is clear, maintainable, and inspires others."
+Sole developer on a production system for a braiding studio in Toronto with two stylists, December 2025 to September 2026. About 50 clients a month book through it.
 
-**🚀 Thanks for visiting my profile! See you in the code!** 🚀
+- A 7-step booking flow for 53 services: live price total, address suggestions, only the start times that fit the service, validation with Zod.
+- A $30 deposit through Stripe Connect that goes straight to the account of the stylist doing the appointment.
+- A studio panel for the day: inbox, weekly calendar, payments, analytics, and prices and hours the studio edits itself.
+- Requests confirmed from a Telegram card in one tap, with email and SMS updates sent to clients.
+- 28 pages and 73 React components, mobile-first, light and dark themes, keyboard and screen reader support.
+- PostgreSQL on Supabase: 26 tables, 42 migrations, row level security and a database constraint against double booking.
+- 700+ automated tests running in CI on every push.
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&desc=See%20you%20soon!&descAlignY=70&descSize=20)
+`Next.js` `TypeScript` `React` `Tailwind CSS` `PostgreSQL` `Supabase` `Stripe Connect` `Vercel`
 
-</div>
+#### LioraLang: spaced-repetition flashcards for web and desktop
+
+[liora-lang.vercel.app](https://liora-lang.vercel.app) · [Source](https://github.com/rorimark/LioraLang) · [Desktop releases](https://github.com/rorimark/LioraLang/releases)
+
+One React codebase that runs in the browser as an installable app and on Windows and macOS through Electron.
+
+- Local first: decks and review history live on the device (IndexedDB on the web, SQLite on desktop) and study works without a connection. Signing in syncs devices through Supabase.
+- Scheduling on FSRS-5, checked against the reference implementation.
+- Cards shaped by subject: languages, programming with code panes, mathematics with rendered formulas, and history.
+- Optional AI card suggestions through a Supabase Edge Function with a daily allowance.
+- A hub of shared decks, an interface in 12 languages, and 500+ tests with Vitest.
+
+`React` `JavaScript` `Vite` `Electron` `IndexedDB` `SQLite` `Supabase`
+
+#### Portfolio
+
+[mark-storchovyi.com](https://mark-storchovyi.com): case studies in English, Polish, Ukrainian and Russian, built with Next.js and TypeScript.
+
+---
+
+**Stack:** TypeScript, JavaScript, React, Next.js, Tailwind CSS, Vite, Zod, Electron · Node.js, PostgreSQL, Supabase, Stripe · Vitest, React Testing Library, GitHub Actions, Vercel
+
+**Languages:** Ukrainian (native), Russian (C2), Polish (C1), English (B2)

@@ -41,21 +41,21 @@ Website, online booking and studio panel for a braiding studio in Toronto. Built
 
 ### LioraLang
 
-Offline flashcards with spaced repetition, on the web and on desktop. Decks for languages, programming, mathematics and history, each with its own card layout.
+Offline flashcards for learning languages with spaced repetition, on the web and on desktop. Decks can also cover programming, mathematics or history.
 
 [Try it](https://liora-lang.vercel.app) · [Source](https://github.com/rorimark/LioraLang)
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://liora-lang.vercel.app"><img src="assets/lioralang.webp" alt="LioraLang programming card on desktop and a mathematics card on a phone"></a>
+      <a href="https://liora-lang.vercel.app"><img src="assets/lioralang.webp" alt="LioraLang study session with a Polish deck on desktop and a Spanish deck on a phone"></a>
       <br><b>Web and desktop</b>
-      <br>Code with line numbers, rendered formulas, works offline.
+      <br>Each word with an example, its level and part of speech. Works offline.
     </td>
     <td width="50%" valign="top">
-      <a href="https://liora-lang.vercel.app"><img src="assets/lioralang-phones.webp" alt="LioraLang programming, mathematics and history cards on phones"></a>
+      <a href="https://liora-lang.vercel.app"><img src="assets/lioralang-phones.webp" alt="LioraLang Polish, Spanish and German decks on phones"></a>
       <br><b>On a phone</b>
-      <br>Every card layout fits a 390px screen.
+      <br>Polish, Spanish and German decks, in light and dark.
     </td>
   </tr>
 </table>

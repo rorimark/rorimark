@@ -27,12 +27,12 @@ Website, online booking and studio panel for a braiding studio in Toronto. Built
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://www.ibraid-studio.com"><img src="assets/ibraid-site.webp" alt="iBraid Studio website and booking flow"></a>
+      <a href="https://www.ibraid-studio.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ibraid-site.webp"><img src="assets/ibraid-site-light.webp" alt="iBraid Studio website and booking flow"></picture></a>
       <br><b>Website and booking</b>
       <br>Real prices and times, a 7-step booking with a deposit.
     </td>
     <td width="50%" valign="top">
-      <a href="https://mark-storchovyi.com/#case-study"><img src="assets/ibraid-panel.webp" alt="iBraid Studio panel"></a>
+      <a href="https://mark-storchovyi.com/#case-study"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ibraid-panel.webp"><img src="assets/ibraid-panel-light.webp" alt="iBraid Studio panel"></picture></a>
       <br><b>Studio panel</b>
       <br>Bookings, weekly calendar, payments, analytics. Confirm from Telegram in one tap.
     </td>
@@ -48,14 +48,14 @@ Offline flashcards for learning languages with spaced repetition, on the web and
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://liora-lang.vercel.app"><img src="assets/lioralang.webp" alt="LioraLang study session with a Polish deck on desktop and a Spanish deck on a phone"></a>
+      <a href="https://liora-lang.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/lioralang.webp"><img src="assets/lioralang-light.webp" alt="LioraLang study session with a Polish deck on desktop and a Spanish deck on a phone"></picture></a>
       <br><b>Web and desktop</b>
       <br>Each word with an example, its level and part of speech. Works offline.
     </td>
     <td width="50%" valign="top">
-      <a href="https://liora-lang.vercel.app"><img src="assets/lioralang-phones.webp" alt="LioraLang Polish, Spanish and German decks on phones"></a>
+      <a href="https://liora-lang.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/lioralang-phones.webp"><img src="assets/lioralang-phones-light.webp" alt="LioraLang Polish, Spanish and German decks on phones"></picture></a>
       <br><b>On a phone</b>
-      <br>Polish, Spanish and German decks, in light and dark.
+      <br>Polish, Spanish and German decks, laid out for a phone.
     </td>
   </tr>
 </table>

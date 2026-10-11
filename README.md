@@ -41,8 +41,21 @@ Website, online booking and studio panel for a braiding studio in Toronto. Built
 
 ### LioraLang
 
-Offline flashcards with spaced repetition, on the web and on desktop.
+Offline flashcards with spaced repetition, on the web and on desktop. Decks for languages, programming, mathematics and history, each with its own card layout.
 
 [Try it](https://liora-lang.vercel.app) · [Source](https://github.com/rorimark/LioraLang)
 
-<a href="https://liora-lang.vercel.app"><img src="assets/lioralang.webp" alt="LioraLang study session and progress"></a>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://liora-lang.vercel.app"><img src="assets/lioralang.webp" alt="LioraLang programming card on desktop and a mathematics card on a phone"></a>
+      <br><b>Web and desktop</b>
+      <br>Code with line numbers, rendered formulas, works offline.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://liora-lang.vercel.app"><img src="assets/lioralang-phones.webp" alt="LioraLang programming, mathematics and history cards on phones"></a>
+      <br><b>On a phone</b>
+      <br>Every card layout fits a 390px screen.
+    </td>
+  </tr>
+</table>
